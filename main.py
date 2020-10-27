@@ -1,0 +1,6 @@
+num1 = input("")
+print("+")
+num2 = input("")
+result = float(num1) + float(num2)
+print("=")
+print(result)
